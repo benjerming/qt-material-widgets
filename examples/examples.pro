@@ -1,4 +1,4 @@
-QT += core gui widgets
+QT += core gui widgets statemachine
 TEMPLATE = app
 CONFIG += c++11
 SOURCES = mainwindow.cpp \
